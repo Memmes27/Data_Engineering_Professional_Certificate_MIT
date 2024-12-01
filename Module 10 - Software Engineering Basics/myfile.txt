@@ -1,0 +1,16 @@
+Hello there this is my first txt file to edit from bash.
+
+#touch myfile.txt
+#cat myfile.txt
+#nano myfile.txt
+#cd ..
+#cd ~
+#ls -la
+#ls -at
+#mkdir my_dir
+#rmdir my_dir
+#pwd
+#echo $HOME
+#history
+
+ 
